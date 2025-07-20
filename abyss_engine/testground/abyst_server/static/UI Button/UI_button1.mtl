@@ -1,0 +1,12 @@
+# Blender 3.5.1 MTL File: 'Mallang.blend'
+# www.blender.org
+
+newmtl UV
+Ns 647.341125
+Ka 0.274194 0.274194 0.274194
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 3
+map_Kd E:/작업폴더/프로젝트/Mallang/Mallang/Tex/UI Button/Tex_UI_button.png

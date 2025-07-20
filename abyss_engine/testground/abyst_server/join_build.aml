@@ -1,0 +1,10 @@
+<!DOCTYPE AML>
+<aml>
+<head>
+    <script>
+host.move_world('abyss:I5bszLS4L2RSN24wNCtYMZ1W7BLeXeeuVRqsDojr2Fp24aK79mWbHMp7A29STH5zjbGHsZyvUcMQwdC26TKv3nhR3:143.248.49.116:62588|127.0.0.1:62588/');
+    </script>
+</head>
+<body>
+</body>
+</aml>

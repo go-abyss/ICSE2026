@@ -1,0 +1,10 @@
+<!DOCTYPE AML>
+<aml>
+<head>
+    <script>
+host.connect('abyss:IGeGRd9fx1MLmY3tk7YeRZyVQEN2QTSSs4ySBVp9oqUHPgqJJ4tARaxQ5rLzMfJBTEquiP7eHbP4Q9QjNiMqf7q5:143.248.49.116:63745|127.0.0.1:63745/');
+    </script>
+</head>
+<body>
+</body>
+</aml>

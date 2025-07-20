@@ -1,0 +1,18 @@
+<!DOCTYPE AML>
+<aml>
+<head>
+</head>
+<body>
+    <mesh src="static/bugatti/bugatti.obj" type="model/obj">
+        <material shader="diffuse" pos="0">
+            <img src="https://picsum.photos/1024" type="image/jpeg" role="albedo"/>
+        </material>
+        <material shader="diffuse" pos="1">
+            <img src="https://picsum.photos/1024" type="image/jpeg" role="albedo"/>
+        </material>
+        <material shader="diffuse" pos="2">
+            <img src="https://picsum.photos/1024" type="image/jpeg" role="albedo"/>
+        </material>
+    </mesh>
+</body>
+</aml>

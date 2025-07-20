@@ -1,0 +1,35 @@
+<!DOCTYPE AML>
+<aml>
+<head>
+</head>
+<body>
+<mesh src="./room2_res/R2_Skybox.obj" type="model/obj">
+    <material shader="color" pos="0">
+    <img src="./room2_res/R2_Skybox.png" type="image/png" role="color"/></material></mesh>
+<mesh src="./room2_res/R2_Light.obj" type="model/obj">
+    <material shader="color" pos="0">
+    <img src="./room2_res/R2_Light.png" type="image/png" role="color"/></material></mesh>
+<mesh src="./room2_res/R2_Mac.obj" type="model/obj">
+    <material shader="color" pos="0"></material></mesh>
+<mesh src="./room2_res/R2_Pot.obj" type="model/obj">
+    <material shader="color" pos="0">
+    <img src="./room2_res/R2_Plants.png" type="image/png" role="color"/></material></mesh>
+<mesh src="./room2_res/R2_Mousepad.obj" type="model/obj">
+    <material shader="color" pos="0"></material></mesh>
+<mesh src="./room2_res/R2_Floor.obj" type="model/obj">
+    <material shader="color" pos="0">
+    <img src="./room2_res/R2_Floor.png" type="image/png" role="color"/></material></mesh>
+<mesh src="./room2_res/R2_Celling.obj" type="model/obj">
+    <material shader="color" pos="0">
+    <img src="./room2_res/R2_Celling.png" type="image/png" role="color"/></material></mesh>
+<mesh src="./room2_res/R2_Chair.obj" type="model/obj">
+    <material shader="color" pos="0">
+    <img src="./room2_res/R2_Chair.png" type="image/png" role="color"/></material></mesh>
+<mesh src="./room2_res/R2_Wall.obj" type="model/obj">
+    <material shader="color" pos="0">
+    <img src="./room2_res/R2_Wall.png" type="image/png" role="color"/></material></mesh>
+<mesh src="./room2_res/R2_Table.obj" type="model/obj">
+    <material shader="color" pos="0">
+    <img src="./room2_res/R2_Desk.png" type="image/png" role="color"/></material></mesh>
+</body>
+</aml>

@@ -1,0 +1,23 @@
+<!DOCTYPE AML>
+<aml>
+<head>
+  <script>
+    //console.log("hello world!");
+    //console.log("hmm:" + Object.keys(document.body));
+  </script>
+</head>
+<body id="bb">
+  <mesh id="carrot" src="static/carrot.obj" type="model/obj">
+    <material shader="diffuse">
+      <img src="static/carrot.png" type="image/png" role="albedo"/>
+    </material>
+  </mesh>
+  <o id="side" pos="0.2,1.0,1.8">
+    <mesh id="carrot" src="static/carrot.obj" type="model/obj">
+      <material shader="diffuse">
+        <img src="https://picsum.photos/200" type="image/jpeg" role="albedo"/>
+      </material>
+    </mesh>
+  </o>
+</body>
+</aml>

@@ -1,0 +1,17 @@
+<!DOCTYPE AML>
+<aml>
+<head>
+    <script>
+
+async function random() {
+    {
+        console.log("post");
+        const response = await fetch("http://localhost:8080/random");
+        console.log(await response.text());
+    }
+}
+random();
+
+    </script>
+</head>
+</aml>

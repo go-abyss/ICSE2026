@@ -1,0 +1,12 @@
+<!DOCTYPE AML>
+<aml>
+<head>
+</head>
+<body>
+    <mesh src="static/human/humano2.obj" type="model/obj">
+        <material shader="color" pos="0">
+            <img src="static/human/humano/Humano_01Business_01_Diffuse01.jpg" type="image/jpeg" role="color"/>
+        </material>
+    </mesh>
+</body>
+</aml>

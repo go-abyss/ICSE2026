@@ -1,0 +1,12 @@
+<!DOCTYPE AML>
+<aml>
+<head>
+    <script>
+//console.log(JSON.stringify(globalThis, null, 4));
+//console.log(host.root_certificate());
+//console.log(host.handshake_key_certificate());
+console.log(host.hash());
+//host.move_world('abyst:' + host.hash() + '/carrot.aml')
+    </script>
+</head>
+</aml>

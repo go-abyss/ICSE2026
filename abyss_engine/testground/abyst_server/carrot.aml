@@ -1,0 +1,10 @@
+<!DOCTYPE AML>
+<aml>
+<body>
+    <mesh pos="0.0,0.0,0.0" src="static/carrot.obj" type="model/obj">
+        <material shader="color" pos="0">
+            <img src="https://www.breatheazy.co.uk/wp-content/uploads/2023/09/Untitled-design-35-1080x675.png" type="image/png" role="color"/>
+        </material>
+    </mesh>
+</body>
+</aml>

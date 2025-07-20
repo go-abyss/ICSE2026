@@ -1,0 +1,20 @@
+<!DOCTYPE AML>
+<aml>
+<head>
+    <script>
+
+console.log("start");
+
+async function doWait() {
+    for(let i = 0; i &lt; 1000; i++) {
+        await sleep(1000);
+        console.log(i);
+    }
+}
+doWait();
+
+    </script>
+</head>
+<body>
+</body>
+</aml>

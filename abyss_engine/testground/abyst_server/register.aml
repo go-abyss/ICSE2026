@@ -1,0 +1,20 @@
+<!DOCTYPE AML>
+<aml>
+<head>
+    <script>
+
+async function register() {
+    {
+        console.log("post");
+        const response = await fetch("http://localhost:8080/register", {
+            method: "POST",
+            body: host.abyss_url() + '\n' + host.root_certificate() + '\n' + host.handshake_key_certificate(),
+        });
+        console.log(await response.text());
+    }
+}
+register();
+
+    </script>
+</head>
+</aml>

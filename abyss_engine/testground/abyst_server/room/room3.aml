@@ -1,0 +1,62 @@
+<!DOCTYPE AML>
+<aml>
+<head>
+</head>
+<body>
+    <mesh src="static/Room1/R1_Bed.obj" type="model/obj">
+        <material shader="color" pos="0">
+            <img src="static/Room1/R1_Bed.png" type="image/png" role="color"/>
+        </material>
+    </mesh>
+    <mesh src="static/Room1/R1_Celling.obj" type="model/obj">
+        <material shader="color" pos="0">
+            <img src="static/Room1/R1_Celling.png" type="image/png" role="color"/>
+        </material>
+    </mesh>
+    <mesh src="static/Room1/R1_Floor.obj" type="model/obj">
+        <material shader="color" pos="0">
+            <img src="static/Room1/R1_Floor.png" type="image/png" role="color"/>
+        </material>
+    </mesh>
+    <mesh src="static/Room1/R1_Light.obj" type="model/obj">
+        <material shader="color" pos="0">
+            <img src="static/Room1/R1_Light.png" type="image/png" role="color"/>
+        </material>
+    </mesh>
+    <mesh src="static/Room1/R1_LowerShelf.obj" type="model/obj">
+        <material shader="color" pos="0">
+            <img src="static/Room1/R1_LowShlef.png" type="image/png" role="color"/>
+        </material>
+    </mesh>
+    <mesh src="static/Room1/R1_Mirror.obj" type="model/obj">
+        <material shader="color" pos="0">
+            <img src="static/Room1/R1_Mirror.png" type="image/png" role="color"/>
+        </material>
+    </mesh>
+    <mesh src="static/Room1/R1_Plants.obj" type="model/obj">
+        <material shader="color" pos="0">
+            <img src="static/Room1/R1_Plants.png" type="image/png" role="color"/>
+        </material>
+    </mesh>
+    <mesh src="static/Room1/R1_Shelf.obj" type="model/obj">
+        <material shader="color" pos="0">
+            <img src="static/Room1/R1_Shelf.png" type="image/png" role="color"/>
+        </material>
+    </mesh>
+    <mesh src="static/Room1/R1_Skybox.obj" type="model/obj">
+        <material shader="color" pos="0">
+            <img src="static/Room1/R1_Skybox.png" type="image/png" role="color"/>
+        </material>
+    </mesh>
+    <mesh src="static/Room1/R1_Wall.obj" type="model/obj">
+        <material shader="color" pos="0">
+            <img src="static/Room1/R1_Wall.png" type="image/png" role="color"/>
+        </material>
+    </mesh>
+    <mesh src="static/Room1/R1_Window.obj" type="model/obj">
+        <material shader="color" pos="0">
+            <img src="static/Room1/R1_WindowFrame.png" type="image/png" role="color"/>
+        </material>
+    </mesh>
+</body>
+</aml>
