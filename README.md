@@ -31,3 +31,10 @@ YourProject
 
 If you find any problem building, please let us know.
 Thank you.
+
+# Limitations
+
+This demo only implements a subset of the abyss browser architecture we provided in the paper.
+Features of AML is very limited, and we did not implement NAT traverseral HTTP client. 
+Instead, our test public peer registry (not provided here) just provides the AURL the peer posted by itself. 
+As NAT traversal itself is not our main research interest, we only tested our implementation without NAT, with each peer allocated a static IP. 
